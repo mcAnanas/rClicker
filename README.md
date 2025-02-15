@@ -22,7 +22,7 @@
 3. Program jest gotowy do użycia.
 
 
-<img src="./Screenshot.png" alt="~" width="300" height="213">
+<img src="./Screenshot.png" alt="~" width="400" height="284">
 
 ## Konfiguracja
 
