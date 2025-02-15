@@ -21,6 +21,8 @@
 2. Uruchom `rClicker.exe`.
 3. Program jest gotowy do użycia.
 
+<img src="./Screenshot.png" alt="Screenshot">
+
 ## Konfiguracja
 
 Po uruchomieniu programu możesz dostosować następujące ustawienia:
