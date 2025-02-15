@@ -1,3 +1,4 @@
+![Alternatywny tekst](./Ikona.png)
 # rClicker - Polski AutoClicker
 
 **rClicker** to polski, autorski auto-clicker dla systemu Windows, stworzony z myślą o graczach. Dzięki niemu możesz cieszyć się wysokim poziomem personalizacji oraz pełnym wsparciem dla wszystkich aplikacji na Windows. Oprogramowanie jest napisane w Pythonie i zapewnia prostą, intuicyjną obsługę.
