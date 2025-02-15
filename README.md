@@ -1,4 +1,4 @@
-<img src="Ikona.png" alt="~" width="100" height="100">
+<img src="Ikona.png" alt="~" width="100" height="100" style="float: left; margin-right: 10px;">
 
 # rClicker - Polski AutoClicker
 
