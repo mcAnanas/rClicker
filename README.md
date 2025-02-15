@@ -15,7 +15,7 @@
 
 ## Pobieranie i instalacja
 
-1. Pobierz najnowszą wersję **rClicker** z [releases](github.com/mcAnanas/rClicker/releases).
+1. Pobierz najnowszą wersję **rClicker** z [releases](https://github.com/mcAnanas/rClicker/releases).
 2. Uruchom `rClicker.exe`.
 3. Program jest gotowy do użycia.
 
