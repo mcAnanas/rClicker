@@ -1,6 +1,7 @@
-<img src="Ikona.png" alt="~" width="100" height="100" style="float: left; margin-right: 10px;">
-
-# rClicker - Polski AutoClicker
+<div style="display: flex; align-items: center;">
+  <img src="Ikona.png" alt="~" width="100" height="100" style="margin-right: 10px;">
+  <h1>rClicker - Polski AutoClicker</h1>
+</div>
 
 **rClicker** to polski, autorski auto-clicker dla systemu Windows, stworzony z myślą o graczach. Dzięki niemu możesz cieszyć się wysokim poziomem personalizacji oraz pełnym wsparciem dla wszystkich aplikacji na Windows. Oprogramowanie jest napisane w Pythonie i zapewnia prostą, intuicyjną obsługę.
 
