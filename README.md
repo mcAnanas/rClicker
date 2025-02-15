@@ -30,7 +30,7 @@ Po pierwszym uruchomieniu programu zostanie utworzony plik o nazwie „Ustawieni
 
 ## Licencja
 
-rClicker jest darmowy do użytku, ale nie wolno go modyfikować ani dekompilować. Szczegóły znajdziesz w pliku [Licencja.md](./Licencja.md).
+rClicker jest darmowy do użytku, ale nie wolno go modyfikować ani dekompilować. Szczegóły znajdziesz w pliku [Licencja.md](./LICENSE.md).
 
 ## Wsparcie i kontakt
 
